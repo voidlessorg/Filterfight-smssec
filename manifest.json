@@ -1,6 +1,6 @@
 {
-	"name": "FilterFight",
-	"start_url": "Filterfight-smssec",
+	"name": "ConfigNegar",
+	"start_url": "Filterfight-smssec/index.html",
 	"display": "standalone",
 	"icons": [
 		{
